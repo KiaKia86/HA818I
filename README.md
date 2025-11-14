@@ -7,7 +7,7 @@
 ### The avionics is built on a **4-layer PCB** with one microcontrollers — a **ESP32-S3** — working to process flight data and transmit telemetry via **LoRa** to the ground station. The board includes multiple sensors to track acceleration, rotation, altitude, and GPS position.
 
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/2bd81f1c-375b-4b6f-9b1b-cd065cfa8e5e" />
-
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/39b056eb-ebed-46de-9174-c545a7beeeeb" />
 
 ---
 
