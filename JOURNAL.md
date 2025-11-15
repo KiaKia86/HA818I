@@ -117,4 +117,8 @@ Friday – 1 hour
 **Avionics Bay**
 <img width="1510" height="896" alt="image" src="https://github.com/user-attachments/assets/16709fbd-01fe-4436-b4db-55301165a039" />
 
+## Full Rocket Image!
+<img width="1915" height="866" alt="image" src="https://github.com/user-attachments/assets/6af56a06-12a7-41fe-96df-9b221def46c4" />
+
+
 ---
