@@ -12,22 +12,22 @@
 
 # Bill of Materials (BOM)
 
-| **Category** | **Item** | **Details** | **Est. Price** | **Purchase Link** |
+| **Category** | **Item** | **Est. Price**  | **Purchase Link** |
 |--------------|----------|-------------|----------------|--------------------|
-| Structure | Fiberglass Cloth (6oz) | $21.99 |  | https://www.amazon.com/Fiberglass-Fabric-Glass-Repair-Surfboard/dp/B0DN5FFPSV |
-| Structure | Fiberglass Cloth (4oz) | $42.99 |  | https://www.amazon.com/YIQUEDOK-Fiberglass-48-75-Sq-Ft-Surfboard-Repair/dp/B0F74917P7 |
-| Structure | Econostitch Peel (5 yards) | $29.95 |  | https://www.amazon.com/Fibre-Glast-Econostitch-Package-Visible/dp/B07DP3PNPJ |
-| Structure | TotalBoat 5:1 Marine Epoxy | $68.99 |  | https://www.amazon.com/TotalBoat-Epoxy-Quart-Fast-Hardener/dp/B00HR85152 |
-| Structure | Primer | $7.97 |  | https://www.amazon.com/Rust-Oleum-Automotive-260510-12-Ounce-Sandable/dp/B006ZLQ4HQ |
-| Structure | Paint | $6.19 |  | https://www.amazon.com/Rust-Oleum-249127-Painters-Purpose-12-Ounce/dp/B002BWOS7Q |
-| Structure | Plastic Drop Cloth | $9.47 |  | https://www.amazon.com/Plastic-Drop-Cloths-6-Pack-Disposable/dp/B0DQDWV1SV |
-| Recovery | Parachute (36 inch) | $18.69 |  | https://www.apogeerockets.com/Building-Supplies/Parachutes/Larger-than-24in/36in-Printed-Nylon-Parachute/Review?reviews_id=7759 |
-| Recovery | Kevlar Shock Cord | $40.69 |  | https://www.apogeerockets.com/Building-Supplies/Shock-Cord/Kevlar-Shock-Cord-4500-20-feet-long-3-loops |
-| Structure | Bulkheads | $41.24 |  | N/A Custom Quote (Merchandise fee is waived, only shipping cost)  |
-| Avionics | PCBA Shipping Cost | $42.22 |  | N/A Custom Quote (Merchandise fee is waived, only shipping cost) |
-| Avionics | 433Mhz Antenna | $9.99 |  | https://www.amazon.com/dp/B0FB3MDJG1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 |
-| Avionics | High Gain GPS Antenna | $12.79 |  | https://www.amazon.com/dp/B0B2NGKCY1?ref=ppx_yo2ov_dt_b_fed_asin_title |
-| Avionics | 2.4Ghz Antenna | $8.99 |  | https://www.amazon.com/dp/B099R3GR91/?th=1 |
+| Structure | Fiberglass Cloth (6oz) | $21.99  | https://www.amazon.com/Fiberglass-Fabric-Glass-Repair-Surfboard/dp/B0DN5FFPSV |
+| Structure | Fiberglass Cloth (4oz) | $42.99 | https://www.amazon.com/YIQUEDOK-Fiberglass-48-75-Sq-Ft-Surfboard-Repair/dp/B0F74917P7 |
+| Structure | Econostitch Peel (5 yards) | $29.95  | https://www.amazon.com/Fibre-Glast-Econostitch-Package-Visible/dp/B07DP3PNPJ |
+| Structure | TotalBoat 5:1 Marine Epoxy | $68.99 | https://www.amazon.com/TotalBoat-Epoxy-Quart-Fast-Hardener/dp/B00HR85152 |
+| Structure | Primer | $7.97 | https://www.amazon.com/Rust-Oleum-Automotive-260510-12-Ounce-Sandable/dp/B006ZLQ4HQ |
+| Structure | Paint | $6.19 | https://www.amazon.com/Rust-Oleum-249127-Painters-Purpose-12-Ounce/dp/B002BWOS7Q |
+| Structure | Plastic Drop Cloth | $9.47  | https://www.amazon.com/Plastic-Drop-Cloths-6-Pack-Disposable/dp/B0DQDWV1SV |
+| Recovery | Parachute (36 inch) | $18.69 | https://www.apogeerockets.com/Building-Supplies/Parachutes/Larger-than-24in/36in-Printed-Nylon-Parachute/Review?reviews_id=7759 |
+| Recovery | Kevlar Shock Cord | $40.69  | https://www.apogeerockets.com/Building-Supplies/Shock-Cord/Kevlar-Shock-Cord-4500-20-feet-long-3-loops |
+| Structure | Bulkheads | $41.24  | N/A Custom Quote (Merchandise fee is waived, only shipping cost)  |
+| Avionics | PCBA Shipping Cost | $42.22 | N/A Custom Quote (Merchandise fee is waived, only shipping cost) |
+| Avionics | 433Mhz Antenna | $9.99  | https://www.amazon.com/dp/B0FB3MDJG1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 |
+| Avionics | High Gain GPS Antenna | $12.79  | https://www.amazon.com/dp/B0B2NGKCY1?ref=ppx_yo2ov_dt_b_fed_asin_title |
+| Avionics | 2.4Ghz Antenna | $8.99 | https://www.amazon.com/dp/B099R3GR91/?th=1 |
 
 **Total Estimated Cost: $362.16
 
