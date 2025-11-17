@@ -13,7 +13,7 @@
 # Bill of Materials (BOM)
 
 | **Category** | **Item** | **Est. Price**  | **Purchase Link** |
-|--------------|----------|-------------|----------------|--------------------|
+|--------------|----------|-------------|----------------|
 | Structure | Fiberglass Cloth (6oz) | $21.99  | https://www.amazon.com/Fiberglass-Fabric-Glass-Repair-Surfboard/dp/B0DN5FFPSV |
 | Structure | Fiberglass Cloth (4oz) | $42.99 | https://www.amazon.com/YIQUEDOK-Fiberglass-48-75-Sq-Ft-Surfboard-Repair/dp/B0F74917P7 |
 | Structure | Econostitch Peel (5 yards) | $29.95  | https://www.amazon.com/Fibre-Glast-Econostitch-Package-Visible/dp/B07DP3PNPJ |
