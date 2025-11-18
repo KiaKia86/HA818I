@@ -69,7 +69,7 @@ Coming soon!
 
 | **JLCPCB** | **OSHWLab** |
 |:---:|:---:|
-| [![JLCPCB](path/to/jlcpcb-logo.png)](https://jlcpcb.com) | [![OSHWLab](path/to/oshwlab-logo.png)](https://oshwlab.com) |
+| [![JLCPCB](<img width="5020" height="1836" alt="jlcpcb" src="https://github.com/user-attachments/assets/6b5f8f3d-64c2-40f0-8f3f-5ea093b0ce41" />)](https://jlcpcb.com) | [![OSHWLab](<img width="1601" height="410" alt="OSHWLab-logo_横版_透底蓝" src="https://github.com/user-attachments/assets/232753ed-b258-49bf-9159-06be05e877c1" />)](https://oshwlab.com) |
 | Leading PCB manufacturer offering high-quality prototyping and assembly services at affordable prices | Community-driven platform for sharing and collaborating on open source hardware designs |
 | **✨ What they provide:** Professional PCBs, fast turnaround, SMT assembly | **✨ What they provide:** Design tools, project hosting, community collaboration |
 | [Visit JLCPCB →](https://jlcpcb.com) | [Visit OSHWLab →](https://oshwlab.com) |
