@@ -61,3 +61,25 @@ I've wanted to design something that combines all of my passions into one projec
 # Physical Build
 Coming soon!
 
+# Sponsors
+
+<div align="center">
+
+## Proudly Sponsored By
+
+| **JLCPCB** | **OSHWLab** |
+|:---:|:---:|
+| [![JLCPCB](path/to/jlcpcb-logo.png)](https://jlcpcb.com) | [![OSHWLab](path/to/oshwlab-logo.png)](https://oshwlab.com) |
+| Leading PCB manufacturer offering high-quality prototyping and assembly services at affordable prices | Community-driven platform for sharing and collaborating on open source hardware designs |
+| **✨ What they provide:** Professional PCBs, fast turnaround, SMT assembly | **✨ What they provide:** Design tools, project hosting, community collaboration |
+| [Visit JLCPCB →](https://jlcpcb.com) | [Visit OSHWLab →](https://oshwlab.com) |
+
+---
+
+### 🙏 Special Thanks
+
+This project is made possible by the generous support of **JLCPCB** and **OSHWLab**. Their commitment to the open hardware community and maker ecosystem enables innovative projects like this to come to life.
+
+</div>
+
+---
