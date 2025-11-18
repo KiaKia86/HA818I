@@ -82,5 +82,6 @@ This project is made possible by the generous support of **JLCPCB** and **OSHWLa
 
 </div>
 <img width="5020" height="1836" alt="jlcpcb" src="https://github.com/user-attachments/assets/c9b44859-d24b-48ba-b1d5-8fd29674d73d" />
+<img width="1601" height="410" alt="OSHWLab-logo_横版_透底蓝" src="https://github.com/user-attachments/assets/232753ed-b258-49bf-9159-06be05e877c1" />
 
 ---
