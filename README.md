@@ -75,7 +75,7 @@ Coming soon!
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://oshwlab.com" target="_blank">
+      <a href="https://oshwlab.com" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/user-attachments/assets/232753ed-b258-49bf-9159-06be05e877c1" alt="OSHWLab" width="400"/>
       </a>
     </td>
