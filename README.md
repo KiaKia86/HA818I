@@ -81,5 +81,6 @@ Coming soon!
 This project is made possible by the generous support of **JLCPCB** and **OSHWLab**. Their commitment to the open hardware community and maker ecosystem enables innovative projects like this to come to life.
 
 </div>
+<img width="5020" height="1836" alt="jlcpcb" src="https://github.com/user-attachments/assets/c9b44859-d24b-48ba-b1d5-8fd29674d73d" />
 
 ---
