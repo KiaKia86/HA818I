@@ -59,7 +59,7 @@ I've wanted to design something that combines all of my passions into one projec
 ---
 
 # Physical Build
-Coming soon!
+Pictures are being edited!
 
 # Sponsors
 
