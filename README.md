@@ -1,6 +1,6 @@
 # *H818I*
 
-### A high-performance custom rocket designed entirely from scratch, using a 4-layer avionics PCB, custom airframe, and custom solid motor. The rocket is expected to reach **6,000 ft (≈1,829 m)** at **Mach 0.6**, powered by a **385 N thrust** motor.
+### A high-performance custom rocket designed entirely from scratch, using a 4-layer avionics PCB, custom airframe, and custom solid motor. The rocket is expected to reach **12,000 ft (≈1,829 m)** at **Mach 0.6**, powered by a **385 N thrust** motor.
 
 ### The airframe is constructed with lightweight composite sections reinforced with fiberglass cloth and resin. The rocket includes 2 pyro channels, offering flexibility for multiple deployments and different control configurations.
 
