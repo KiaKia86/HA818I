@@ -54,7 +54,7 @@ The avionics system is designed for flexibility, allowing reuse across future ro
 
 ### Why Did I Make This Rocket?
 
-I've wanted to design something that combines all of my passions into one project, and this is it. H818I represents months of hard work, simulation, and testing. Everything I learned about propulsion, control, and flight dynamics has been combined into a single rocket! 
+I've wanted to design something that combines all of my passions into one project, and this is it. HA818I represents months of hard work, simulation, and testing. Everything I learned about propulsion, control, and flight dynamics has been combined into a single rocket! 
 
 ---
 
