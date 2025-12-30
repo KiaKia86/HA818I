@@ -2,7 +2,7 @@
 |--------|----------------|------------------------------------------|------------|
 | H818I | Kiya | A high-performance custom rocket with full avionics, airframe, and motor designed from scratch. | 2025-10-02 |
 
-# Dev Log "H818I"
+# Dev Log "HA818I"
 
 **Total Time (Hours): 42 Hours**
 
