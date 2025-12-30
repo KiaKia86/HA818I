@@ -1,6 +1,6 @@
 | Title | Author | Description | Created_at |
 |--------|----------------|------------------------------------------|------------|
-| H818I | Kiya | A high-performance custom rocket with full avionics, airframe, and motor designed from scratch. | 2025-10-02 |
+| HA818I | Kiya | A high-performance custom rocket with full avionics, airframe, and motor designed from scratch. | 2025-10-02 |
 
 # Dev Log "HA818I"
 
