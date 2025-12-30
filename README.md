@@ -4,13 +4,13 @@
 
 ### The airframe is constructed with lightweight composite sections reinforced with fiberglass cloth and resin. The rocket includes 2 pyro channels, offering flexibility for multiple deployments and different control configurations.
 
-### The avionics is built on a **4-layer PCB** with one microcontrollers — a **ESP32-S3** — working to process flight data and transmit telemetry via **LoRa** to the ground station. The board includes multiple sensors to track acceleration, rotation, altitude, and GPS position.
+### The avionics is built on a 4-layer PCB with one microcontroller (ESP32-S3) working to process flight data and transmit telemetry via LoRa to the ground station. The board includes multiple sensors to track acceleration, rotation, altitude, and GPS position.
 
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/2bd81f1c-375b-4b6f-9b1b-cd065cfa8e5e" />
 
 ---
 
-# Bill of Materials (BOM)
+# Bill of Materials (BOM) (FOR Hack Club!!!)
 
 | **Category** | **Item** | **Est. Price**  | **Purchase Link** |
 |--------------|----------|-------------|----------------|
@@ -29,7 +29,7 @@
 | Avionics | High Gain GPS Antenna | $12.79  | https://www.amazon.com/dp/B0B2NGKCY1?ref=ppx_yo2ov_dt_b_fed_asin_title |
 | Avionics | 2.4Ghz Antenna | $8.99 | https://www.amazon.com/dp/B099R3GR91/?th=1 |
 
-**Total Estimated Cost: $362.16
+**Total Estimated Cost: $362.16**
 
 **Note:**
 The PCB cost is not included in the bom, as it is funded by an external source (JLCPCB). Filament and other materials on hand are not considered either!
