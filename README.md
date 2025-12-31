@@ -1,4 +1,4 @@
-# *H818I*
+# *HA818I*
 
 ### A high-performance custom rocket designed entirely from scratch, using a 4-layer avionics PCB, custom airframe, and custom solid motor. The rocket is expected to reach **12,000 ft (≈3657.6 m)** at **Mach 0.6**, powered by a **385 N thrust** motor.
 
@@ -38,7 +38,7 @@ The PCB cost is not included in the bom, as it is funded by an external source (
 
 ### PCB Overview
 
-The **4-layer PCB** serves as the core of the H818I flight computer.  
+The **4-layer PCB** serves as the core of the HA818I flight computer.  
 It uses:
 - **ESP32-S3** (Telemetry, communication, logging, and sensor data)  
 - **LoRa radio module** for long-range ground communication  
